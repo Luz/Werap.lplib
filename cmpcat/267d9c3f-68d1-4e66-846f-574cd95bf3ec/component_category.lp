@@ -1,0 +1,10 @@
+(librepcb_component_category 267d9c3f-68d1-4e66-846f-574cd95bf3ec
+ (name "Wiegand Sensors")
+ (description "A Wiegand Sensor consists of a specially treated magnetic wire inside a copper coil. Slow change in external magnetic field may cause instant induction that can be used for energy harvesting.")
+ (keywords "wiegand, sensor")
+ (author "Luz")
+ (version "0.1")
+ (created 2020-07-14T19:16:47Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)

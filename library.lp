@@ -1,0 +1,10 @@
+(librepcb_library 1e243c68-563c-4abc-b675-5dc674aeb7b5
+ (name "Werap")
+ (description "Inductivities by Werap")
+ (keywords "werap, wicklerei, wiegand, inductivity, inductivities, inductor, coil")
+ (author "Luz")
+ (version "0.1")
+ (created 2020-07-14T19:02:47Z)
+ (deprecated false)
+ (url "")
+)

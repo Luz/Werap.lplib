@@ -1,0 +1,10 @@
+(librepcb_package_category 4b64bcbe-d730-4980-8836-b58c346ab738
+ (name "Werap")
+ (description "Category for cases specially made by Werap")
+ (keywords "werap")
+ (author "Luz")
+ (version "0.1")
+ (created 2020-07-14T19:31:19Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
